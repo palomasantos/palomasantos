@@ -1,9 +1,9 @@
-### Oie, eu sou a Paloma ✨✨
+### Oie, eu sou a Paloma Santos ✨✨
 
-<div>
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/
-  
-<div>
+![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paloma-santos-016b81190/)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
